@@ -1,0 +1,42 @@
+_repo: Tartuffe--Or-The-Hypocrite_2027
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Page, Curtis Hidden
+    alias: Page, C. H. (Curtis Hidden)
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '32415'
+    url: http://www.gutenberg.org/2009/agents/32415
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century -- Translations into English'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- GITenberg
+title: Tartuffe; Or, The Hypocrite
+url: http://www.gutenberg.org/ebooks/2027
